@@ -1,0 +1,6 @@
+{
+  "name": "FlashShare",
+  "description": "High-speed file transfer and media hub app with Wi-Fi Direct simulation up to 100 MB/s",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
